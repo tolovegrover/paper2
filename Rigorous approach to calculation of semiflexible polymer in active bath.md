@@ -1,3 +1,3 @@
 $$
-\boldsymbol{F}_{act}(s,t)=\frac{\delta U}{\delta \boldsymbol{r}(s,t)}=\sum_{i=1}^{n}f(\re)
+\boldsymbol{F}_{act}(s,t)=\frac{\delta U}{\delta \boldsymbol{r}(s,t)}=\sum_{i=1}^{n}f(\boldsymbol{R}_{i}(t)-\boldsymbol{r}(s,t)),\quad f(x)
 $$
