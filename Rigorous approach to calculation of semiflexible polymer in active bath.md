@@ -1,3 +1,3 @@
 $$
-F_{act}(s,t)=
+F_{act}(s,t)=\frac{ \Delta}{}
 $$
