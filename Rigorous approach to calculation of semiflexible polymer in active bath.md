@@ -1,3 +1,3 @@
 $$
-\vec{F}_{act}(s,t)=\frac{\delta U}{\delta \vec{r}(s,t)}
+\boldsymbol{F}_{act}(s,t)=\frac{\delta U}{\delta \boldsymbol{r}(s,t)}
 $$
