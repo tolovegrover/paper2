@@ -4,5 +4,5 @@ $$
 Under specific conditions to make system follow Central Limit Theorem; Second cumulant od active force
 
 $$
-C_{\alpha\beta}(s,t,s',t') = \sum_{i=1}^{n}\langle\rangle
+C_{\alpha\beta}(s,t,s',t') = \sum_{i=1}^{n}\langle f_{\alpha(\boldsymbol{R}_{{}})}\rangle
 $$
